@@ -1,3 +1,4 @@
+
 # Automatic Attribute Personalized Learning Recommender
 
 This project inspects the supplied dataset, discovers its actual attributes, lets the user choose the prediction target, generates a manual input form from feature columns, and recommends predicted target classes.
@@ -35,3 +36,6 @@ The data is split 80/20 before training. The scikit-learn pipeline fits imputers
 
 ## Important limits
 This dataset predicts next-course labels, not OULAD `id_site` / `activity_type` learning resources. For resource recommendations, a dataset with resource-level interactions and metadata is required. Accuracy cannot be promised; use held-out test results and do not tune against the test set to force 70–80%.
+
+# Learning-recommendation-system
+
