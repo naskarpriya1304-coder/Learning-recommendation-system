@@ -1,16 +1,8 @@
-from src.pipeline import train_and_evaluate, infer_target, audit_dataset
+"""Backward-compatible shorthand for training and evaluating GR-1."""
+from src.pipeline import train_and_evaluate
+
 
 if __name__ == "__main__":
-    df, audit = audit_dataset()
-    target = infer_target(df)
-    if target is None:
-        print("Could not infer one target column. Set it in app.py and train from the UI.")
-    else:
-        print("Detected target:", target)
-        metrics = train_and_evaluate(target)
-        print("Rows:", metrics["rows"])
-        print("Train rows:", metrics["train_rows"], "| Test rows:", metrics["test_rows"])
-        print("Accuracy:", round(metrics["accuracy"] * 100, 2), "%")
-        print("Balanced accuracy:", round(metrics["balanced_accuracy"] * 100, 2), "%")
-        print("Identifier columns excluded:", metrics["identifier_columns_excluded"])
-        print("Saved model and reports.")
+    metrics = train_and_evaluate()
+    print(f"Selected model: {metrics['selected_model']}")
+    print(f"Test accuracy: {metrics['accuracy']:.4f} | macro F1: {metrics['f1_macro']:.4f} | NDCG@5: {metrics['ndcg_at_5']:.4f}")

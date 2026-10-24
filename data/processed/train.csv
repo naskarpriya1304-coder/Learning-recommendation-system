@@ -1,0 +1,801 @@
+Learner_ID,Current_Course,Completed_Courses,Learning_Level,Learning_Preference,Time_Spent_Hours,Performance_Score,Next_Course_Recommendation
+956,Chem102,"CS101, History102, Physics101",Beginner,Text,99.73,55.55,History102
+458,Physics102,CS101,Advanced,Text,87.86,54.09,CS102
+504,Chem102,History102,Beginner,Interactive,3.4,97.65,Physics102
+873,Math102,"Bio101, Chem101",Advanced,Video,25.98,63.15,History101
+256,CS102,"Chem102, Math101",Intermediate,Interactive,73.11,90.84,History101
+449,Bio102,Math102,Advanced,Mixed,82.3,62.63,Chem102
+568,Physics102,"Bio102, Chem102",Advanced,Interactive,69.27,64.0,CS102
+655,Bio101,"Bio102, CS101, Chem101",Advanced,Mixed,92.69,62.54,Math101
+743,Math102,Chem102,Beginner,Interactive,29.18,98.22,Physics101
+274,History102,"Bio102, CS101, History101, History102",Beginner,Mixed,96.47,70.26,Physics101
+922,Bio101,"CS102, History102, Physics102",Intermediate,Text,57.82,54.76,CS102
+692,Physics101,"Bio101, Chem102, Physics101, Physics102",Beginner,Mixed,80.8,55.82,Math102
+647,Bio102,"Bio101, CS102, Chem102, History102",Beginner,Video,24.33,78.51,Physics101
+930,Physics102,Chem101,Advanced,Mixed,59.62,87.18,Math101
+418,Physics102,"Chem101, Chem102",Intermediate,Interactive,28.63,73.3,Math101
+588,Math101,"CS101, Chem101, Chem102, Physics102",Advanced,Video,98.59,86.98,Physics102
+242,Bio101,Bio101,Advanced,Text,90.49,74.66,Math101
+64,History101,"Bio102, Chem102, Physics102",Beginner,Text,65.3,53.68,Math101
+653,Chem101,History102,Intermediate,Text,51.93,77.29,Bio101
+419,Math101,Physics102,Intermediate,Video,58.36,54.67,CS101
+95,Chem101,Math102,Beginner,Interactive,91.25,53.25,Bio101
+707,CS101,"Bio102, Chem102, Math101",Intermediate,Mixed,43.28,86.56,Physics101
+42,Physics102,Physics102,Advanced,Video,51.62,68.11,History102
+577,Chem101,History101,Advanced,Mixed,15.6,61.88,History101
+105,Math101,"Bio102, Physics102",Intermediate,Text,15.53,94.89,Physics102
+943,Physics101,"Chem101, History101, Math101",Beginner,Mixed,47.33,92.1,Bio102
+427,History101,"CS102, Math101, Math102, Physics101",Intermediate,Video,21.6,63.37,Chem102
+913,Math101,"CS101, History102, Math102, Physics101",Advanced,Text,99.22,75.36,Chem101
+25,Bio102,"Bio101, CS101, History101, Physics102",Intermediate,Text,91.43,84.12,Physics102
+802,CS101,"CS101, Math101, Physics101, Physics102",Beginner,Interactive,56.73,89.57,Chem102
+277,Bio102,"CS102, Chem101, Chem102, History102",Intermediate,Video,37.62,87.8,Physics101
+99,Chem101,"History101, History102, Physics102",Beginner,Mixed,86.64,86.39,History102
+534,History102,"Bio101, Math102",Intermediate,Interactive,86.91,60.22,Bio101
+514,CS102,Chem102,Beginner,Interactive,64.71,82.31,Bio101
+785,Math102,CS102,Beginner,Text,94.95,72.26,History102
+525,CS101,"Bio101, Bio102, CS101, Physics101",Advanced,Text,13.21,97.01,CS101
+885,CS102,History102,Intermediate,Interactive,71.38,56.83,Bio102
+220,Math101,"Bio101, History101",Beginner,Video,37.07,55.32,Chem101
+304,History102,"Bio101, History101",Intermediate,Interactive,75.67,64.7,Physics102
+343,History101,History101,Intermediate,Mixed,53.5,77.35,Chem102
+233,CS101,Math102,Beginner,Interactive,41.47,89.95,History102
+923,Math101,"Bio102, History101, Math102",Intermediate,Video,85.49,55.97,Math102
+690,History101,"Chem101, History101, Math101, Physics101",Beginner,Mixed,25.85,70.51,Physics102
+141,CS101,Chem102,Intermediate,Interactive,84.3,63.07,Bio102
+103,Chem101,"History102, Physics101, Physics102",Advanced,Text,65.12,87.49,Chem102
+228,CS101,"Chem101, History102",Beginner,Mixed,79.14,78.35,History101
+645,Chem102,History102,Advanced,Interactive,92.32,50.05,History102
+502,CS101,"CS102, Math101, Physics101",Beginner,Interactive,56.05,73.34,Math102
+444,Math101,Chem102,Advanced,Mixed,47.11,93.29,Bio102
+36,Chem102,"History101, History102, Physics101, Physics102",Advanced,Interactive,17.06,64.54,Chem101
+414,Chem102,Physics102,Beginner,Mixed,59.57,53.58,Physics101
+833,Chem101,"CS101, Physics102",Beginner,Video,62.72,64.97,Math102
+498,Bio102,"History101, Physics102",Beginner,Mixed,54.62,81.7,Math102
+940,History102,"Math102, Physics101",Beginner,Text,21.92,93.26,CS102
+69,Physics102,"Bio101, Chem102",Intermediate,Video,59.13,78.37,Bio102
+920,CS102,Bio102,Beginner,Interactive,86.89,98.19,CS102
+21,History102,"Bio102, CS101, Math101",Intermediate,Interactive,95.7,78.96,Chem102
+711,Physics102,"Bio101, CS101, History101, Physics102",Advanced,Video,42.85,88.61,Chem102
+369,Bio102,Chem101,Advanced,Mixed,39.88,65.85,History102
+780,CS102,Bio102,Beginner,Video,57.34,99.04,CS102
+170,Chem101,"Bio101, CS102, History101",Advanced,Text,41.62,72.13,Chem102
+601,Math101,"Chem102, Math102, Physics102",Beginner,Mixed,51.02,99.9,Bio101
+865,History102,Physics102,Intermediate,Interactive,21.63,77.01,Chem102
+659,CS101,Math101,Advanced,Text,6.35,81.83,CS102
+45,CS101,"History102, Physics101, Physics102",Beginner,Mixed,70.21,74.84,History102
+945,Bio101,"CS101, Chem102, History102",Beginner,Interactive,65.3,88.05,CS102
+134,Bio102,History102,Intermediate,Text,52.25,87.61,Physics101
+399,Math101,"Bio101, History101, Physics101",Intermediate,Interactive,37.48,83.79,History101
+699,Math101,Bio101,Intermediate,Video,1.43,99.38,History101
+54,Bio102,"Bio101, Chem101, Math101, Physics102",Advanced,Text,36.56,75.62,Bio102
+914,Chem102,"Bio102, Chem102",Advanced,Video,9.87,90.2,Chem102
+544,Bio102,"Bio102, CS102, History102",Beginner,Interactive,49.97,71.68,Bio102
+372,History102,"Bio102, CS101, Chem101, Math102",Advanced,Video,58.37,87.94,History102
+987,Math102,"Chem102, Physics101",Advanced,Text,34.14,63.29,Math101
+483,Chem101,"Bio102, Math101, Physics101, Physics102",Beginner,Interactive,35.45,86.72,CS102
+872,CS101,"History101, Math102, Physics102",Advanced,Interactive,75.03,70.89,Math101
+237,History101,"Bio102, Chem101",Advanced,Mixed,81.71,56.62,Math101
+438,Chem102,"Bio102, History101",Beginner,Text,37.41,74.52,Physics101
+388,Physics101,Physics102,Intermediate,Mixed,71.11,87.65,Math101
+174,Bio102,History101,Advanced,Mixed,43.73,65.88,CS101
+23,CS102,Physics101,Intermediate,Video,69.15,70.26,Math102
+49,Chem101,Physics102,Advanced,Text,91.83,63.73,History101
+778,Chem102,"Bio101, Physics102",Advanced,Interactive,15.13,79.91,History102
+581,Chem101,"Bio102, CS102, Math101, Physics102",Beginner,Interactive,19.57,87.22,Chem102
+796,CS102,"Chem101, Physics101",Beginner,Text,40.15,92.38,Chem101
+492,Bio102,Physics101,Intermediate,Text,61.08,53.6,History102
+487,History101,"Chem102, Math101",Intermediate,Interactive,42.21,97.9,CS101
+746,CS101,"Bio102, Chem102",Advanced,Text,32.42,50.94,Math101
+336,Physics101,"Bio102, CS102, History102",Intermediate,Mixed,10.04,97.46,History101
+986,Chem102,"CS102, History101, Math101",Intermediate,Video,2.77,87.95,Math101
+402,Chem101,Chem101,Intermediate,Mixed,70.65,62.03,History101
+47,History101,"CS101, Chem101, Chem102, History102",Advanced,Text,37.96,59.04,History102
+661,Physics101,"Chem102, History102, Physics101, Physics102",Advanced,Mixed,81.5,76.64,Chem102
+835,History101,"Bio101, Chem102, Math102",Advanced,Mixed,16.25,81.65,History101
+924,Chem102,Chem102,Advanced,Interactive,40.42,89.15,Math101
+517,Math102,"Bio101, Bio102, Chem101",Intermediate,Video,15.4,82.08,Physics102
+900,CS101,"Bio102, Math102, Physics101",Beginner,Video,7.65,75.14,History101
+674,Bio102,"CS101, History102, Math101",Intermediate,Video,75.13,94.63,Physics101
+104,History102,Math101,Intermediate,Text,42.75,56.81,Chem101
+113,Physics101,"Chem101, Physics101",Beginner,Text,52.35,54.74,Chem101
+218,Math101,"Math101, Physics102",Intermediate,Mixed,57.91,67.15,Math101
+842,CS102,"Bio102, CS101, Chem102, Physics102",Beginner,Interactive,60.42,63.36,Chem101
+338,Math101,"Bio101, History101, History102",Intermediate,Interactive,14.34,67.58,Math101
+33,Math101,"Bio102, CS101, Chem101",Advanced,Interactive,67.12,74.25,CS102
+894,Bio101,"Math102, Physics102",Beginner,Text,53.65,75.7,Math101
+897,Physics101,CS101,Intermediate,Text,72.2,55.46,CS101
+199,Physics101,"Chem102, Math102",Beginner,Interactive,59.78,65.05,Math101
+574,Physics102,Bio102,Intermediate,Interactive,25.79,78.45,Bio102
+652,Chem102,"CS102, Chem101, History102, Physics101",Advanced,Video,31.12,91.05,History101
+694,Chem101,Chem102,Advanced,Video,37.43,86.23,Chem101
+381,Math101,"History101, Physics101",Advanced,Video,8.88,90.07,Chem102
+585,Physics101,History102,Intermediate,Interactive,9.49,81.13,Chem101
+709,Bio102,Bio102,Intermediate,Text,8.95,56.53,CS101
+729,History102,"CS101, History101, Math102",Intermediate,Mixed,78.27,79.52,Physics102
+817,History102,Math102,Intermediate,Text,35.26,79.73,CS101
+88,Chem101,"CS101, CS102, Chem101, History101",Beginner,Video,52.78,51.62,Math101
+391,Math102,"Bio101, Chem102",Beginner,Text,69.01,79.41,Math102
+792,Bio102,Chem101,Intermediate,Text,96.96,98.53,Chem102
+611,Physics101,"Bio101, History102, Math101",Beginner,Mixed,29.87,64.3,Physics101
+808,Chem101,"Bio102, Chem102, Math101, Math102",Advanced,Interactive,38.9,79.03,Chem101
+985,Physics102,"Chem102, Math102",Intermediate,Mixed,50.06,90.59,Bio102
+547,Math101,Physics101,Intermediate,Interactive,26.51,58.92,Physics102
+907,Math101,"CS101, Chem101, Math101",Intermediate,Mixed,32.91,68.91,History101
+150,Chem102,"Bio102, Physics101",Beginner,Text,64.36,52.25,Physics101
+532,Bio101,"CS101, Physics101, Physics102",Beginner,Text,29.51,56.08,Physics102
+234,Bio102,"History101, Math102",Beginner,Mixed,82.51,76.13,History101
+329,Physics102,Bio101,Advanced,Text,9.19,92.92,Math102
+171,CS101,"CS101, Chem101",Intermediate,Text,11.55,74.69,Physics102
+825,Bio101,Math101,Advanced,Interactive,99.01,98.15,Bio102
+323,Math102,"Bio101, CS101, Chem102, Math102",Beginner,Mixed,98.18,64.84,History101
+92,CS101,Bio102,Advanced,Interactive,20.77,51.12,Math102
+20,Math102,"CS102, History101, Physics101",Beginner,Mixed,99.46,74.44,History101
+749,Bio101,"Bio101, History101, Math101, Physics102",Intermediate,Mixed,77.17,98.4,Physics102
+836,CS101,"Bio101, History102",Beginner,Mixed,27.25,77.71,Physics101
+565,Physics101,"Bio101, Bio102, Math101, Physics101",Beginner,Interactive,43.02,78.08,CS102
+563,Chem102,"Bio101, Chem102, History101, History102",Beginner,Text,23.52,60.53,Bio101
+377,Math101,Bio101,Beginner,Interactive,22.78,95.3,Physics102
+26,CS101,History102,Beginner,Video,28.28,92.38,Bio102
+410,Math102,"CS102, History102, Math102",Intermediate,Mixed,96.64,51.55,Math102
+976,History102,"Bio101, Bio102",Intermediate,Text,48.24,75.5,Chem101
+904,CS102,"Bio102, History101, Math101",Beginner,Mixed,70.15,68.07,Physics101
+168,Math102,"Chem102, History102, Physics101",Advanced,Mixed,26.42,90.32,Physics101
+318,Chem101,"Bio101, CS101, Chem101, Math101",Advanced,Mixed,65.07,96.16,History101
+625,Bio101,"Chem101, Chem102, History102, Physics101",Advanced,Text,45.72,77.92,Bio101
+816,Bio102,CS101,Advanced,Mixed,30.0,53.98,History102
+849,Bio101,"Bio102, Physics101",Beginner,Interactive,58.57,73.49,History102
+520,Chem102,Bio101,Intermediate,Mixed,64.95,75.42,History102
+1000,History101,"Bio101, Math102",Beginner,Text,31.33,54.39,Bio101
+491,Physics101,"Bio101, CS101, Chem101, Math101",Beginner,Video,53.69,99.64,Chem101
+319,Physics101,"CS101, Chem101",Intermediate,Text,69.0,90.25,CS101
+288,Physics102,"Bio102, CS102, Chem101, History101",Beginner,Mixed,57.75,74.73,History102
+206,Chem101,CS102,Beginner,Video,87.9,97.44,Math101
+570,CS101,Physics102,Beginner,Text,44.53,58.73,History101
+63,Bio102,"CS102, History101, Math102, Physics102",Advanced,Text,68.89,86.39,Math102
+882,History101,"CS101, History101, History102",Advanced,Interactive,3.53,84.47,Math101
+990,Bio101,"Chem101, History102, Math102, Physics101",Intermediate,Video,6.61,62.88,Math102
+853,Chem101,"CS101, Math102, Physics101",Beginner,Interactive,3.03,65.96,Bio102
+472,CS101,"CS102, History102, Physics101",Intermediate,Interactive,3.1,57.8,Math101
+911,Chem102,"Chem101, Math101",Intermediate,Interactive,94.18,70.16,Physics101
+189,Physics102,"Bio102, History102, Physics101",Beginner,Text,33.42,50.93,CS101
+637,CS101,"Bio102, Math102",Intermediate,Mixed,13.85,65.87,Physics101
+373,Math101,"Bio102, Physics101, Physics102",Intermediate,Video,66.85,78.06,History101
+292,Math101,"Math102, Physics101",Advanced,Interactive,42.02,83.4,CS102
+136,CS102,Chem102,Beginner,Interactive,66.28,82.82,History101
+352,Math102,"Math101, Math102, Physics101, Physics102",Advanced,Mixed,78.88,69.74,Chem101
+901,Math102,Physics101,Intermediate,Text,26.06,81.06,History101
+456,History101,"Bio102, CS101, History101, Math102",Advanced,Video,45.82,82.56,History101
+301,Physics101,"Chem102, Math101",Intermediate,Mixed,37.64,59.0,History101
+832,Bio101,"Bio101, Math101, Physics102",Intermediate,Mixed,93.17,55.86,CS102
+994,Math101,"History102, Math101, Physics102",Beginner,Text,34.22,52.74,CS102
+881,Chem101,"Bio102, History102, Math102, Physics101",Beginner,Interactive,14.98,86.15,CS102
+98,Bio102,"Bio102, Chem101, History102",Beginner,Video,94.22,66.32,Math102
+616,Physics102,"Bio101, History101, Math101, Math102",Beginner,Mixed,63.47,63.56,Physics101
+758,CS102,History102,Beginner,Mixed,35.27,77.9,Bio101
+187,Bio101,"CS101, Chem101, Chem102",Advanced,Mixed,87.03,83.57,CS101
+55,Math102,"Chem101, Chem102, History101, Math101",Advanced,Interactive,60.43,85.61,Math102
+109,Bio101,"Bio102, Chem102, History102, Math101",Advanced,Video,8.28,78.92,CS102
+207,Physics102,"Bio101, History101, Math101, Math102",Intermediate,Mixed,76.72,81.77,CS101
+523,Math101,"Bio102, Chem101, Math101",Beginner,Interactive,11.65,87.12,History102
+9,History101,"CS102, History102, Physics101",Advanced,Mixed,17.35,95.56,History102
+12,History102,"History102, Math102",Advanced,Mixed,28.6,50.32,Math102
+83,Chem102,"Math101, Physics101",Beginner,Text,66.32,56.41,Physics101
+400,History102,"Bio101, Chem101, History102, Math101",Intermediate,Interactive,6.34,99.68,Bio101
+357,CS101,"CS101, CS102, History102, Math101",Beginner,Mixed,74.02,58.68,History102
+43,Chem101,"CS102, Physics102",Beginner,Mixed,95.49,65.93,CS102
+296,Bio101,"Chem102, History101, Physics101",Beginner,Interactive,35.01,65.0,Physics102
+361,Physics101,Bio102,Intermediate,Text,34.34,57.02,CS102
+368,Physics101,"Chem101, Chem102, Math101",Intermediate,Video,39.59,94.19,History102
+722,CS102,Chem101,Beginner,Text,61.73,63.1,CS101
+509,Math101,History102,Intermediate,Mixed,91.68,96.78,Math102
+844,Math102,"Bio102, Math102",Beginner,Text,88.17,76.12,CS102
+959,Math101,"Bio101, CS101, History101, Math102",Intermediate,Mixed,39.79,59.41,History101
+963,Bio102,Bio101,Beginner,Text,46.53,86.21,Chem101
+290,Math101,"Bio102, Math101, Math102",Advanced,Interactive,86.36,97.79,History102
+166,CS102,"Bio102, Chem101",Intermediate,Mixed,53.81,63.5,Chem102
+349,History102,"Chem101, History102, Math101, Physics101",Advanced,Mixed,80.36,70.39,Physics102
+231,Physics101,Math102,Advanced,Interactive,99.65,51.92,Bio101
+916,Chem101,"CS102, History102, Math101, Physics102",Intermediate,Text,82.84,68.4,Chem102
+133,Physics101,Bio101,Advanced,Video,46.29,52.22,Bio102
+383,Math102,Physics102,Advanced,Video,94.84,84.45,Bio102
+97,Bio102,"Bio101, History101",Advanced,Video,96.62,91.64,Physics101
+332,Physics102,"CS101, History102, Math102",Beginner,Video,20.69,62.14,Chem102
+359,Physics101,"Chem101, History102",Advanced,Interactive,18.58,54.63,Bio102
+463,Math101,Bio102,Beginner,Mixed,20.03,98.3,Chem102
+93,History102,"Bio101, Bio102, Chem101, History102",Beginner,Video,51.13,52.49,CS102
+733,Bio102,"Bio101, CS101",Intermediate,Video,96.88,75.5,Bio102
+263,Chem102,CS101,Beginner,Text,71.51,99.97,CS101
+204,CS102,"Bio101, Chem102, Physics101, Physics102",Advanced,Video,9.24,62.81,Math101
+754,CS101,CS102,Advanced,Video,77.97,59.62,Math102
+821,Math102,CS102,Beginner,Mixed,30.37,72.45,CS102
+809,Math101,"Bio101, History101, Math101, Physics101",Beginner,Video,16.57,79.73,Chem102
+858,History101,"Chem102, Math101, Math102, Physics102",Intermediate,Interactive,18.73,63.12,Math101
+777,CS101,Math101,Advanced,Interactive,82.7,65.67,History102
+931,History102,"Bio102, CS102, Chem102",Beginner,Text,82.13,66.95,History102
+195,Bio101,"CS102, Chem102, History102",Beginner,Interactive,31.23,79.76,History102
+855,Math101,CS101,Beginner,Text,52.5,63.97,Chem102
+638,Physics101,"Chem102, History101, Physics101",Beginner,Text,75.26,98.14,Bio101
+531,Bio102,"Chem102, Math101, Math102",Advanced,Interactive,31.44,89.31,Chem101
+192,History101,"History101, Math101",Advanced,Video,77.84,70.54,Math102
+146,History101,Math102,Beginner,Text,98.54,87.62,Math101
+426,Math102,Chem101,Advanced,Text,95.98,54.71,History101
+497,Chem101,CS101,Beginner,Text,34.77,70.49,CS102
+439,CS102,"Bio102, CS101, Chem102, History101",Intermediate,Text,3.52,88.64,Bio102
+441,Bio101,"Bio101, CS101, Chem102",Beginner,Interactive,89.38,88.37,CS102
+787,Physics101,"Bio102, History102",Beginner,Text,33.97,56.34,Bio101
+145,Chem102,"Bio101, CS101, Chem101",Advanced,Video,57.95,64.24,History101
+629,History101,"Bio102, Chem101, History102, Physics102",Advanced,Video,42.49,77.19,History101
+188,Chem101,"Bio102, Chem102, History101, Math102",Advanced,Mixed,93.47,62.62,Math102
+29,Chem102,"Bio101, History101, Math101",Advanced,Mixed,60.7,85.86,Chem102
+321,Math102,"Bio102, Math101",Beginner,Text,31.82,62.8,Chem102
+970,Physics101,Chem102,Intermediate,Video,29.43,65.28,CS102
+57,Chem101,Bio102,Advanced,Mixed,6.57,82.57,Chem101
+879,Bio101,"Chem102, Physics101, Physics102",Intermediate,Mixed,81.64,78.68,Chem101
+250,CS102,CS101,Beginner,Text,16.29,77.84,CS101
+682,Physics101,"Chem102, Physics102",Beginner,Mixed,66.1,95.23,CS102
+720,CS101,"History101, Math102, Physics102",Advanced,Interactive,55.52,53.42,Physics101
+614,History101,"Chem102, Math101, Physics102",Beginner,Interactive,87.64,74.68,Bio101
+536,Math102,Math101,Beginner,Text,8.04,81.0,Bio102
+596,History101,"Bio101, Bio102, Chem101, Chem102",Beginner,Video,96.24,50.4,Chem101
+580,CS101,"History101, Physics101",Intermediate,Mixed,42.86,84.29,Math101
+926,Math101,CS102,Intermediate,Text,79.77,61.22,Physics101
+688,History102,CS102,Beginner,Interactive,54.87,91.71,History101
+467,Chem102,"Chem101, History101, Math101, Physics101",Beginner,Video,52.79,50.66,History101
+607,Math101,CS101,Intermediate,Video,70.32,52.85,CS101
+512,Chem102,"Bio102, Chem102, Math102, Physics101",Beginner,Interactive,99.05,97.83,CS101
+208,Math101,"Chem102, History102, Math101",Intermediate,Interactive,3.19,57.8,CS102
+791,CS102,Chem101,Intermediate,Text,29.39,94.16,Bio102
+884,Bio101,"Chem102, History101, History102, Math102",Intermediate,Interactive,60.41,89.94,Math101
+765,History102,"CS102, History101, Math102, Physics101",Advanced,Interactive,13.99,56.76,CS101
+742,Bio102,"Bio101, Bio102, CS101, Math101",Intermediate,Interactive,20.92,59.26,Math101
+852,Physics102,History102,Beginner,Interactive,46.64,77.84,Bio101
+74,CS102,"CS102, Chem102",Intermediate,Interactive,91.53,57.15,Chem102
+131,History102,"Bio101, Chem102, Math101",Beginner,Mixed,77.05,69.7,Bio101
+889,Physics102,"CS101, Chem102, History101, History102",Beginner,Text,46.79,55.58,CS101
+196,Chem101,"CS101, CS102",Advanced,Text,43.49,82.89,Bio101
+813,Math101,"CS101, History102, Physics101",Advanced,Mixed,48.5,62.84,Chem101
+284,History101,"Bio102, Chem102, History101",Beginner,Mixed,80.37,92.14,Physics102
+612,Bio102,"History102, Math102",Intermediate,Video,29.01,71.36,Bio102
+918,Chem101,History101,Advanced,Mixed,45.1,62.62,Math101
+24,Math102,"Bio101, Math102",Intermediate,Text,30.19,65.22,Math101
+219,History102,Math101,Beginner,Text,40.4,59.21,History101
+431,Chem102,"CS101, History101",Beginner,Text,52.4,98.42,Chem102
+965,Math101,"Chem101, History101",Intermediate,Text,23.26,51.84,Math101
+108,History102,Physics101,Advanced,Mixed,73.66,97.51,Chem101
+698,History102,"CS101, Chem102, History101",Intermediate,Video,5.61,97.25,Math101
+822,CS102,"Bio102, History101",Beginner,Text,89.06,66.5,Bio101
+939,Bio101,"CS101, CS102, History102, Math101",Advanced,Interactive,49.96,56.09,CS101
+766,Math102,History101,Intermediate,Video,59.56,63.63,Math101
+408,Chem102,"Chem101, Physics101, Physics102",Intermediate,Video,56.46,59.67,CS102
+806,Math101,"CS101, Chem101, History101",Advanced,Interactive,20.16,54.39,Physics101
+571,Math102,"History101, Math101",Intermediate,Interactive,45.18,66.27,Math102
+592,CS101,"CS102, Chem102",Beginner,Text,60.2,81.05,Math101
+309,Physics102,"CS101, Math101, Math102",Intermediate,Mixed,37.35,54.07,Chem101
+636,Chem102,"Bio101, Chem102, Math101, Physics102",Advanced,Mixed,51.48,61.41,Bio101
+35,Bio101,"Bio102, History102",Beginner,Mixed,51.28,76.43,Bio102
+856,History102,History101,Beginner,Interactive,69.91,96.57,History101
+58,Chem102,Chem102,Intermediate,Video,41.79,62.95,Chem102
+66,History102,"CS101, CS102, History102, Physics101",Intermediate,Video,43.07,87.43,Bio101
+119,History101,"Bio101, History102, Math101, Physics102",Intermediate,Video,57.95,76.22,CS101
+172,CS102,"Bio101, Physics101",Advanced,Interactive,90.69,65.61,Math102
+19,CS101,Chem101,Intermediate,Interactive,24.12,52.78,Chem102
+459,Math102,"Bio101, History102, Math101",Intermediate,Text,74.55,65.04,History101
+499,CS101,"Math102, Physics101",Beginner,Text,67.84,51.21,Bio101
+795,CS101,Math101,Beginner,Text,64.86,52.67,Physics101
+422,Physics101,"Bio101, History102, Physics101",Intermediate,Text,50.96,59.55,Physics102
+77,Physics102,"Chem102, History101, Math101, Physics102",Beginner,Video,46.77,69.39,Chem102
+137,Bio101,"Bio102, CS102, History102, Math102",Beginner,Mixed,35.57,50.92,CS102
+475,Bio102,"Bio101, CS102, Math101",Beginner,Mixed,76.93,69.04,History101
+482,CS102,"Bio101, Chem102",Advanced,Mixed,31.94,87.08,Chem102
+162,Physics102,"Bio101, History101, Math101",Intermediate,Interactive,82.44,74.79,CS101
+673,Physics101,"CS101, Physics102",Intermediate,Mixed,46.13,84.71,Bio102
+782,Bio101,"History102, Physics101",Intermediate,Video,50.22,80.69,Chem101
+620,CS101,"Bio101, CS102, Math102, Physics101",Intermediate,Video,42.16,81.82,Math101
+484,History102,"History102, Math101, Physics102",Intermediate,Text,49.19,73.53,Bio102
+297,History101,CS101,Beginner,Interactive,96.38,58.02,Physics101
+271,History102,History101,Advanced,Text,57.88,54.07,Math101
+799,History101,"Bio101, CS102, Math102, Physics102",Intermediate,Interactive,5.16,94.5,Chem102
+114,Physics101,"Chem101, Physics101",Intermediate,Video,78.13,99.84,History101
+442,Bio102,Math101,Beginner,Interactive,88.6,87.47,CS101
+507,History101,"CS101, Chem101, Chem102, Math102",Advanced,Video,67.23,90.79,Chem102
+546,Math101,Bio101,Advanced,Interactive,54.34,81.07,History102
+938,Chem102,"CS101, Math102, Physics101, Physics102",Advanced,Text,62.69,52.15,Physics102
+289,Bio102,"History102, Math102, Physics101",Beginner,Video,22.8,56.6,History101
+587,Math102,"Bio102, CS101, Chem101, History102",Intermediate,Interactive,74.62,78.45,Math102
+594,Math101,Chem101,Intermediate,Text,85.26,88.07,Chem102
+995,CS101,Math102,Beginner,Mixed,33.2,85.17,Chem102
+511,History101,"Math101, Math102",Intermediate,Mixed,2.04,55.74,Bio101
+433,Chem102,"Bio101, History102, Math102",Beginner,Mixed,2.15,62.96,Bio102
+177,Physics102,"CS102, History101, History102",Advanced,Mixed,66.23,81.63,Bio101
+867,Chem102,Chem102,Advanced,Mixed,91.12,70.36,Math101
+678,Chem102,"Chem102, History101, History102, Math102",Intermediate,Video,17.24,80.76,History101
+160,History101,CS101,Intermediate,Video,27.44,61.24,Math102
+860,Physics101,"Bio102, History101, Math102",Intermediate,Interactive,6.16,92.43,Physics102
+212,Bio102,"Bio102, CS102, Chem101, Physics101",Advanced,Mixed,72.43,56.74,Math101
+423,History101,"Bio102, Chem102",Intermediate,Interactive,97.58,50.78,Physics102
+543,CS101,CS101,Intermediate,Interactive,48.27,86.98,Chem101
+417,Physics102,"CS102, History101, Math102",Advanced,Mixed,70.53,92.12,Chem101
+615,Bio102,"Bio101, CS101, CS102, Physics101",Intermediate,Text,86.93,84.83,CS102
+198,Math101,Chem101,Advanced,Interactive,26.39,58.3,Physics101
+999,CS102,"CS101, History102, Math102",Beginner,Interactive,3.39,56.43,Physics102
+51,Math102,Physics101,Intermediate,Mixed,27.77,91.63,Chem102
+70,Math102,"CS101, Chem102, Math102, Physics102",Beginner,Mixed,48.17,97.54,Bio102
+764,Chem102,"CS102, Math102",Intermediate,Mixed,19.11,71.71,CS102
+353,CS101,"Bio102, CS101, History101, Math102",Intermediate,Video,77.22,87.21,History102
+331,CS101,"CS101, CS102, Chem101",Intermediate,Mixed,68.03,50.15,Math102
+948,Chem102,"CS102, Chem101",Intermediate,Video,71.29,66.88,History102
+164,Bio101,"Bio101, History101, Math101",Beginner,Mixed,19.34,50.11,Bio102
+827,Bio102,"CS102, Chem101, Math102, Physics101",Beginner,Mixed,73.61,94.35,History101
+584,Math101,"CS102, Chem102, Math101, Physics101",Advanced,Interactive,68.32,53.14,Chem101
+387,Chem102,Chem101,Advanced,Interactive,15.59,87.75,Bio101
+490,History101,Bio101,Advanced,Mixed,27.61,52.99,History101
+960,History101,Chem101,Beginner,Mixed,31.69,94.4,Math101
+834,Math101,CS102,Intermediate,Mixed,35.02,97.99,Math101
+745,Bio102,"CS101, Chem102, Physics101, Physics102",Intermediate,Mixed,47.56,82.68,Chem102
+241,History102,"Bio101, Math102",Intermediate,Video,5.3,85.6,Bio102
+465,Physics101,"Bio102, CS101, Chem101, Math101",Beginner,Interactive,34.36,72.19,History102
+48,CS101,"Bio102, Math102, Physics101",Intermediate,Mixed,90.31,77.05,Chem102
+783,Math101,"Bio101, CS102, Math101, Physics101",Beginner,Interactive,81.12,65.58,Chem102
+887,Physics102,"Bio102, CS102, History101, Math102",Advanced,Text,51.44,98.26,History102
+750,CS102,"CS101, Physics101",Intermediate,Interactive,16.51,66.0,History101
+675,CS102,"Bio102, Physics101, Physics102",Beginner,Mixed,67.05,81.69,Math102
+253,Chem101,"Bio101, Bio102, Physics102",Beginner,Mixed,56.4,55.8,Chem102
+468,History101,"History102, Math101",Advanced,Mixed,63.67,77.39,History102
+506,CS101,"Bio102, Chem101, Math102, Physics102",Advanced,Text,26.0,58.62,CS101
+697,Chem101,"Bio102, CS101, History102",Advanced,Interactive,1.35,64.78,Chem102
+341,Physics101,"Bio102, CS101, Math101",Advanced,Mixed,57.35,67.5,History102
+18,CS102,Physics102,Beginner,Mixed,43.29,85.72,History102
+883,History101,"Chem101, Physics102",Intermediate,Video,79.87,98.41,CS102
+966,Physics102,"Bio102, History102, Math101",Beginner,Mixed,27.88,95.22,Math101
+416,Chem101,"History101, Math101",Advanced,Video,4.39,51.7,History101
+606,Physics101,"Chem102, Math101, Math102",Advanced,Video,97.67,64.69,Math102
+685,Chem102,"Bio101, CS102, Chem102, Math102",Intermediate,Text,36.05,92.66,Physics101
+700,CS102,"History102, Math101, Physics102",Beginner,Interactive,64.89,73.67,Math101
+380,History101,"CS102, Chem101, Physics101",Beginner,Mixed,33.04,62.69,CS101
+243,Math101,"Bio101, Bio102, CS101",Beginner,Interactive,53.23,92.87,Bio101
+801,CS101,"CS102, Chem102, History102",Beginner,Mixed,86.63,64.85,Math102
+522,Chem102,Bio101,Beginner,Mixed,20.88,93.31,Bio102
+950,Physics101,Bio101,Advanced,Text,57.43,65.84,Chem102
+946,Bio102,"Bio101, CS102, Math101, Physics101",Beginner,Video,8.23,76.23,Math101
+362,Math101,Math101,Intermediate,Video,57.21,69.47,History102
+736,Chem102,Physics102,Advanced,Interactive,97.53,74.67,History102
+961,CS102,"CS101, CS102",Intermediate,Video,25.9,90.42,Physics101
+89,History102,"CS101, Chem101, History102, Math101",Beginner,Mixed,12.34,87.23,Chem101
+310,Bio101,"Bio102, History102",Advanced,Mixed,90.86,82.15,CS101
+11,Bio101,"Bio102, Math101, Physics102",Advanced,Interactive,42.88,74.88,CS102
+575,Chem101,"Bio102, CS101",Intermediate,Text,89.21,69.13,CS102
+478,Chem102,"Bio101, Chem102, Physics101",Intermediate,Video,62.19,88.47,Physics102
+495,CS101,"CS101, Chem101, Chem102, Math102",Beginner,Interactive,21.92,98.47,History102
+868,Math101,"Bio101, CS101, CS102",Intermediate,Mixed,33.35,99.4,Physics101
+302,Physics101,"Bio102, Chem102, History101",Advanced,Interactive,2.82,71.68,History101
+91,Math102,"Chem102, Physics101",Intermediate,Mixed,21.47,56.65,Math102
+258,Physics102,Math101,Advanced,Mixed,34.17,60.25,Math101
+86,History101,"Chem101, Chem102",Intermediate,Text,21.48,93.93,Chem101
+949,CS102,"Chem102, Math101",Advanced,Video,2.98,74.52,Physics102
+75,CS102,"Bio101, Bio102, Chem102, Physics102",Beginner,Text,3.04,96.23,Chem101
+201,Bio102,CS102,Beginner,Text,26.7,88.83,CS102
+117,CS101,"Chem101, History101, History102",Beginner,Mixed,34.35,58.28,Chem101
+96,Bio102,"Bio101, Chem101, Math102",Beginner,Video,50.71,68.44,Math101
+744,Bio102,"Chem102, Math101",Beginner,Mixed,76.75,70.2,CS101
+429,Physics101,"Chem101, History101, Math101",Advanced,Interactive,77.23,76.5,History102
+634,Chem102,Physics102,Intermediate,Interactive,34.3,67.17,History101
+566,Chem101,"CS102, Chem101, Physics101",Advanced,Interactive,86.18,79.66,History101
+967,Chem101,"Bio102, History102",Beginner,Text,45.48,56.39,History101
+632,CS101,History102,Intermediate,Video,28.1,75.1,Math102
+148,Bio101,"Bio101, Math101, Physics102",Advanced,Video,8.89,64.17,Math102
+779,Chem101,"Bio101, CS101, Chem102, Physics101",Advanced,Text,31.64,71.81,Math102
+403,Bio101,"CS102, Math101, Physics101",Advanced,Video,60.19,93.86,Math101
+649,CS102,"Bio101, Physics101",Intermediate,Text,19.24,91.46,Chem102
+316,Physics102,"CS102, Physics101",Advanced,Video,24.2,70.72,Physics102
+691,Math101,"CS102, Math101",Intermediate,Video,74.11,67.38,History102
+793,Math101,"CS102, History101, Physics102",Advanced,Interactive,61.26,71.23,Math101
+432,CS102,"History101, Math101, Physics101",Beginner,Video,99.33,94.36,CS101
+861,Math101,CS102,Advanced,Video,44.17,70.08,CS101
+384,Chem101,"Bio101, CS102, Chem101",Beginner,Interactive,49.02,58.75,Chem101
+567,History101,"CS101, Physics102",Advanced,Video,54.67,68.62,History102
+14,Physics102,"Chem102, Math102",Advanced,Text,91.87,78.65,History102
+262,Physics101,"Bio101, History101",Intermediate,Mixed,21.32,86.35,Chem101
+971,Chem101,"Bio102, History102, Physics101, Physics102",Beginner,Interactive,19.19,74.78,CS102
+912,Math102,"Bio102, CS102, Chem102, History102",Intermediate,Mixed,60.31,85.44,History102
+101,Chem101,"Bio102, Chem101",Advanced,Text,14.95,82.97,Math102
+227,History101,"History102, Physics102",Beginner,Video,16.37,52.19,Physics102
+591,History101,"Bio102, Math102, Physics101",Advanced,Video,71.94,75.62,Bio101
+6,History101,Physics102,Intermediate,Interactive,85.18,90.05,Chem101
+396,Chem102,"Bio102, History102",Beginner,Mixed,93.4,77.24,Bio102
+838,Math102,"CS102, Chem101, Physics102",Beginner,Video,61.74,70.87,Physics102
+39,Physics101,"Bio101, Bio102, Chem101",Advanced,Interactive,98.73,72.94,Chem102
+762,Chem101,"CS102, Math102, Physics101",Beginner,Interactive,97.09,78.89,CS102
+407,History101,"Chem101, History101, Math102, Physics102",Beginner,Video,42.27,76.09,Math101
+213,History101,Math102,Intermediate,Text,86.42,70.4,Physics102
+980,Physics101,"CS102, Chem101, Math102",Beginner,Video,87.91,76.28,Chem102
+364,Bio102,"CS101, CS102, Chem101, Math102",Intermediate,Text,93.32,57.94,Math101
+663,Math101,"Bio101, History102",Intermediate,Text,78.13,88.15,CS101
+298,Chem101,"Bio101, Chem101, History101",Intermediate,Video,91.12,82.38,Physics102
+500,Math101,"Bio101, Bio102, CS102, Math102",Intermediate,Video,63.7,94.89,Physics101
+524,History102,"CS102, Chem102, History101",Beginner,Mixed,44.57,97.45,Math101
+533,Physics102,"CS101, Chem102, Math102",Advanced,Mixed,91.59,55.82,Physics101
+376,Bio102,"Bio101, Math102, Physics101",Advanced,Text,61.21,84.49,Chem102
+560,History102,"CS102, Chem101",Advanced,Interactive,87.49,81.3,Physics102
+869,Bio102,Chem102,Advanced,Text,50.37,89.18,Physics101
+308,History102,"CS101, Math101",Beginner,Interactive,94.84,53.01,History102
+494,Physics101,Chem102,Intermediate,Mixed,41.39,67.65,Bio102
+557,History101,"Bio102, CS101, History101, Math101",Beginner,Video,67.77,79.02,Chem101
+555,Math102,"Chem101, Physics101",Beginner,Mixed,52.36,74.93,Physics101
+191,Physics101,"Bio102, History101",Beginner,Video,24.46,82.24,Physics102
+660,CS102,"History101, Math102, Physics101",Advanced,Mixed,36.67,94.08,CS102
+300,Physics101,"CS101, Math101",Advanced,Text,58.4,57.68,Bio101
+112,History102,"History101, History102",Beginner,Video,14.13,66.45,Chem101
+286,Chem102,"Bio101, CS101, Chem102, Math102",Intermediate,Interactive,79.61,76.57,Math101
+350,Bio101,"Bio101, Chem102, Math101, Physics101",Advanced,Text,79.38,91.55,Physics101
+107,History102,"Bio101, CS101, Math101, Physics102",Beginner,Text,2.73,67.66,Bio101
+892,Physics101,"CS102, History101, History102",Intermediate,Video,22.31,99.88,History102
+772,CS102,"CS101, CS102, Physics101",Beginner,Video,85.65,65.67,Physics102
+958,Chem101,"Chem101, History101",Advanced,Text,54.85,79.69,Math101
+874,CS102,"Bio102, Chem101, History101",Intermediate,Interactive,42.06,53.55,Physics102
+82,Math102,"CS101, Chem102, Physics101",Advanced,Video,11.83,51.93,Math101
+313,Physics102,"CS101, CS102, Chem101, Math102",Advanced,Interactive,3.03,83.93,Physics102
+670,Physics102,Bio102,Intermediate,Mixed,80.24,88.28,Math101
+846,Math102,"CS101, Math102",Advanced,Video,29.68,82.41,CS102
+650,History101,"Bio101, CS101, Chem101, Math102",Beginner,Video,22.09,69.99,Physics102
+481,Math102,History101,Intermediate,Interactive,65.37,84.43,Chem102
+530,Math101,"Bio102, CS101, Math102, Physics101",Advanced,Mixed,7.45,68.23,Math102
+265,Physics101,"CS102, History102, Math101, Math102",Advanced,Text,18.01,87.22,Bio102
+264,Physics101,"Bio101, History102, Physics102",Intermediate,Video,58.4,99.51,History102
+390,History102,"Bio102, CS101, CS102",Advanced,Video,25.77,94.54,Math101
+996,CS102,"CS101, Chem102, Math101, Math102",Beginner,Interactive,92.42,94.56,Chem102
+251,Bio101,Bio101,Beginner,Mixed,40.63,70.56,Physics102
+111,Math101,"Bio102, History102, Math101",Beginner,Interactive,79.51,97.48,Bio102
+225,Bio102,"Chem102, History102",Beginner,Mixed,91.73,77.45,Math102
+121,Chem101,"CS101, Chem102, History101, Math102",Advanced,Mixed,46.3,77.64,History102
+539,Math101,"CS102, History102, Math102",Intermediate,Video,85.62,50.71,Chem101
+573,History102,"Chem101, History102",Advanced,Text,54.32,81.69,Chem101
+176,Bio102,CS102,Beginner,Mixed,10.46,83.47,Bio101
+516,Physics102,"Bio101, CS101, Math101, Physics101",Intermediate,Text,86.26,94.44,Math101
+184,Math101,"Bio101, CS101, Chem101, History102",Advanced,Interactive,4.77,85.36,Physics102
+819,Chem102,"History102, Math101, Math102",Beginner,Text,84.85,84.21,History101
+246,CS101,Math102,Advanced,Mixed,95.01,64.36,Math102
+85,History102,"CS102, Math101",Intermediate,Text,76.95,90.56,Math101
+485,CS101,Chem102,Advanced,Mixed,97.88,60.57,Bio101
+260,Bio101,History102,Advanced,Video,29.52,92.3,Bio102
+850,Physics101,"Bio101, Math102, Physics102",Intermediate,Mixed,17.65,78.05,Chem101
+430,Chem101,Math102,Beginner,Interactive,86.81,53.45,Bio101
+330,Math101,Physics101,Beginner,Video,82.57,74.04,Chem102
+626,CS101,History102,Intermediate,Interactive,96.9,51.55,Bio102
+830,Bio102,"CS101, Chem101, Physics101",Beginner,Video,15.27,95.04,Math102
+62,Bio102,CS102,Beginner,Mixed,51.99,62.82,CS101
+279,Chem101,Bio102,Intermediate,Text,18.86,61.72,Bio102
+640,Bio101,Chem101,Advanced,Text,84.07,67.33,Math101
+445,History102,"Bio102, Chem102, Math101, Math102",Beginner,Video,51.69,56.61,CS101
+123,History101,"Chem102, Physics102",Advanced,Text,84.36,80.19,Physics102
+259,Bio102,"Bio101, Chem101, Math102, Physics101",Intermediate,Interactive,4.42,82.29,Physics102
+307,Math101,Bio102,Intermediate,Text,27.13,76.78,Math102
+978,Math101,"History102, Math101, Math102",Advanced,Mixed,32.78,66.76,Math101
+639,History101,"History102, Math101",Advanced,Mixed,10.82,67.4,Physics102
+973,Physics102,"History102, Physics101",Beginner,Text,89.54,51.16,History101
+303,Physics102,"History101, History102, Math102, Physics101",Intermediate,Video,13.63,90.34,Bio102
+677,Bio101,"Chem101, Physics102",Intermediate,Text,71.61,52.67,CS102
+519,Chem102,"Bio101, CS101",Intermediate,Text,2.54,95.11,CS101
+40,Bio102,"Chem101, Chem102",Beginner,Mixed,32.48,99.18,Math101
+815,Math102,Bio102,Intermediate,Video,21.32,84.74,Math101
+347,Physics101,"Bio102, CS101, CS102, History101",Advanced,Text,32.53,96.29,History102
+239,History101,"Bio102, Math101, Physics102",Advanced,Interactive,62.67,83.75,Bio102
+545,Physics101,"Bio102, History101, Math102, Physics102",Beginner,Video,49.5,61.98,History101
+998,CS102,"Bio101, Chem102, History102",Beginner,Text,96.32,96.89,CS101
+367,CS102,"Bio101, CS101, History101, Physics102",Advanced,Video,47.54,94.69,Math101
+473,History101,"Math101, Math102",Beginner,Interactive,35.45,72.09,History102
+334,History102,Bio102,Advanced,Mixed,83.87,98.3,Chem102
+684,Bio102,"Math102, Physics102",Beginner,Mixed,58.13,61.2,History101
+245,History102,"CS101, Physics102",Beginner,Mixed,84.01,72.46,Chem102
+702,CS102,"CS102, Chem102, History101, Math101",Intermediate,Text,30.46,86.83,Math102
+728,Chem102,"Bio101, CS101",Advanced,Interactive,99.83,57.88,Math101
+583,Physics101,"Chem102, History101, Math101",Advanced,Interactive,52.48,67.58,History102
+143,Math101,Physics101,Advanced,Video,34.81,66.07,Math102
+618,Chem102,Bio102,Beginner,Text,67.54,92.1,Math101
+181,Bio102,"Bio101, History101, Math102, Physics102",Advanced,Text,8.8,75.45,Bio101
+934,Bio102,"Bio101, CS102, Physics102",Intermediate,Text,17.92,53.65,Chem101
+203,Bio101,"Chem102, History101, Math102, Physics102",Advanced,Text,4.17,67.82,Physics102
+880,Physics101,"Bio101, History101, Physics101",Advanced,Mixed,53.83,97.16,Chem102
+232,Math102,"CS101, History102",Intermediate,Interactive,78.94,70.08,Physics101
+30,CS102,Bio101,Beginner,Video,80.5,88.23,History101
+37,Bio102,"History101, History102",Beginner,Text,42.22,84.38,CS102
+71,History102,"Bio101, History101",Advanced,Text,33.25,79.89,CS101
+455,Physics101,"CS101, Chem101",Beginner,Mixed,70.58,52.43,Bio102
+339,Bio102,"Bio102, CS101, Chem101, Physics101",Beginner,Mixed,91.45,95.29,Math102
+627,Physics102,Math102,Beginner,Mixed,9.3,73.07,Bio102
+953,History101,History101,Advanced,Mixed,19.85,56.14,Chem101
+993,Chem101,"Bio102, Chem102",Intermediate,Interactive,94.94,65.92,CS102
+680,Physics101,"Bio101, Physics102",Advanced,Mixed,67.11,80.64,CS102
+163,History101,"Bio101, History102, Math102, Physics101",Beginner,Mixed,27.86,88.57,Physics102
+562,Chem102,"Bio102, Chem101, Chem102",Intermediate,Video,3.1,81.12,CS101
+775,Math101,"History101, Math102",Advanced,Text,35.3,86.24,Physics101
+968,Physics102,"Bio101, Bio102, Math102",Beginner,Video,65.63,97.4,CS101
+44,Physics101,"Bio101, CS102, Math102, Physics102",Advanced,Video,48.38,94.74,History102
+590,History102,"Bio101, Chem102",Advanced,Text,25.24,65.09,Physics101
+190,Chem101,"Chem102, History102, Math102",Beginner,Interactive,14.45,84.96,Physics101
+807,CS101,"Chem102, History102, Math101, Math102",Beginner,Text,55.83,84.15,CS101
+392,CS102,"Bio101, CS102",Advanced,Mixed,74.52,95.88,Math101
+529,Math102,"CS102, Chem102, History102, Math101",Intermediate,Mixed,68.19,83.03,Math102
+578,Physics102,"Bio101, Bio102, Math102",Beginner,Mixed,10.56,76.77,Physics101
+683,Math102,"CS101, Chem102",Advanced,Mixed,88.43,73.75,Physics101
+771,Math101,"Chem102, Math101, Math102",Intermediate,Text,5.91,69.17,Physics101
+915,Bio101,"Chem101, History102, Physics102",Intermediate,Text,13.53,85.63,Math102
+385,Chem102,"Bio101, History102, Math102, Physics101",Intermediate,Video,90.7,79.82,History101
+549,Chem102,"Bio101, CS102, Chem102, Math101",Intermediate,Interactive,43.98,52.38,History102
+667,History101,"Bio102, Physics101",Beginner,Mixed,58.84,71.81,Chem101
+644,Chem101,"Bio101, Physics101",Intermediate,Interactive,79.51,78.98,CS101
+933,Chem102,"CS101, History101, Math102",Advanced,Text,7.57,55.1,Chem101
+658,CS101,Physics101,Intermediate,Text,92.21,66.19,Bio101
+828,Math101,"Bio101, Chem102, Math102",Beginner,Interactive,39.48,71.31,Math102
+436,Math101,"Bio101, Chem101, Chem102",Intermediate,Interactive,47.46,73.06,Physics101
+774,Math102,"Bio101, Bio102, CS102, Chem102",Intermediate,Interactive,44.01,50.93,CS101
+672,Bio102,Physics102,Intermediate,Interactive,99.71,57.37,Bio101
+370,Chem101,"Bio102, Chem101, History101, Physics101",Advanced,Interactive,61.99,85.21,Bio101
+130,History101,"Bio102, History101, Physics102",Advanced,Video,40.14,74.6,Bio101
+716,Math102,"Chem102, Math101, Physics101",Beginner,Mixed,97.41,85.34,Physics101
+215,Physics101,History102,Intermediate,Interactive,99.45,90.83,Physics102
+508,Physics102,"Bio102, CS101, Math101",Intermediate,Mixed,74.95,70.16,Physics102
+448,Bio102,"CS102, Chem102",Beginner,Video,19.59,71.11,CS101
+169,Chem102,"Chem101, Math102, Physics102",Intermediate,Video,4.45,58.21,Physics102
+935,History101,Math102,Intermediate,Interactive,31.8,73.11,Bio102
+854,CS102,CS102,Advanced,Video,2.66,69.62,Physics101
+435,CS102,CS102,Beginner,Interactive,62.69,97.12,History101
+32,Chem101,"Chem102, History102, Physics101",Advanced,Video,20.12,70.98,Bio101
+769,History101,"Bio102, CS101",Intermediate,Mixed,25.06,85.4,History102
+314,CS102,CS101,Intermediate,Interactive,52.67,50.5,CS102
+100,Math101,"Bio102, CS102, Chem101",Advanced,Video,50.5,54.7,Chem101
+224,Math102,"Bio101, Bio102, Chem101",Advanced,Interactive,60.76,98.08,CS102
+851,Math102,"Bio101, Chem101, Math101, Physics101",Intermediate,Video,43.04,57.13,Chem102
+16,History102,"CS101, Math101",Beginner,Interactive,56.7,69.85,Chem101
+862,CS101,"CS101, Math102",Intermediate,Interactive,62.69,91.5,CS102
+899,CS101,Physics101,Intermediate,Text,64.32,74.42,Math101
+17,Physics101,"Bio102, CS101, Chem102, History101",Beginner,Interactive,80.49,65.17,Physics102
+662,History102,"Bio101, History101, Physics102",Beginner,Text,61.55,87.96,CS102
+420,History102,CS102,Advanced,Interactive,21.03,85.34,Bio102
+186,Chem101,"CS101, Chem102, Math101, Physics101",Advanced,Text,71.49,59.81,CS101
+929,Physics101,Chem102,Advanced,Mixed,96.0,77.34,Bio102
+216,Math101,"CS101, CS102",Advanced,Interactive,98.02,82.76,CS101
+471,Chem102,"Bio102, Chem101, History102",Advanced,Mixed,90.97,53.06,Chem101
+526,Physics102,"Chem101, Chem102, Physics101, Physics102",Advanced,Interactive,49.16,69.12,Chem102
+569,Chem102,"CS101, History102",Advanced,Mixed,47.46,63.69,History102
+344,CS102,Bio102,Beginner,Text,36.01,59.36,Math101
+609,Bio102,Math101,Intermediate,Interactive,17.46,71.37,Bio101
+715,Chem101,Physics101,Beginner,Video,78.87,50.95,CS102
+753,Math101,"Bio101, CS102, Chem101",Advanced,Interactive,6.7,50.87,Chem101
+59,CS101,"History101, Math102",Advanced,Interactive,58.31,53.49,Physics101
+389,History102,"CS101, Chem102, Math102, Physics102",Intermediate,Mixed,44.11,75.89,Math101
+664,CS102,"CS102, Chem101, Math101, Physics101",Beginner,Text,72.18,83.22,Physics101
+496,CS102,"CS102, History102",Beginner,Mixed,48.77,65.93,CS101
+382,Physics101,"Bio102, CS102, Physics102",Advanced,Mixed,58.76,53.51,History102
+222,Math101,"Bio101, Chem102, History102",Intermediate,Text,25.67,59.98,Math102
+404,CS102,"Bio101, Chem101, Physics101",Advanced,Text,49.5,69.76,Math101
+756,Bio102,"CS101, Math102, Physics102",Beginner,Interactive,33.71,96.85,History102
+896,Chem102,History102,Beginner,Text,76.89,67.76,Bio102
+102,History101,"CS102, History101",Advanced,Video,22.57,65.84,Math102
+379,CS101,Chem102,Beginner,Mixed,67.87,78.57,Math101
+951,Physics101,Bio101,Intermediate,Text,34.12,66.78,History101
+454,Physics102,"CS101, CS102, Math101, Math102",Beginner,Mixed,61.24,86.03,CS101
+521,Physics101,CS102,Intermediate,Mixed,44.05,70.53,Bio102
+173,Bio102,"Bio101, CS101, Chem102, Physics102",Beginner,Mixed,5.08,74.09,CS101
+281,History101,"Bio101, CS102, History101",Intermediate,Interactive,22.33,62.84,Chem102
+154,History101,"Bio102, Chem102, Physics101",Beginner,Interactive,66.05,86.99,Bio101
+671,CS102,"Chem102, History102, Math102, Physics101",Advanced,Video,58.91,53.46,Math102
+903,Chem102,"Bio102, CS102, Chem102",Intermediate,Mixed,17.55,96.56,Math102
+761,CS101,Chem101,Intermediate,Mixed,13.33,60.95,Physics102
+405,History101,"Bio101, Physics102",Advanced,Mixed,4.18,73.32,Physics102
+820,Chem102,"Bio101, Bio102, CS102, Physics102",Advanced,Text,38.26,68.5,History101
+28,Bio102,"Chem101, Chem102, Math102, Physics102",Advanced,Video,91.91,96.61,History102
+132,CS101,"Bio101, History101, Physics101, Physics102",Beginner,Interactive,43.09,80.57,CS101
+270,Math101,"Chem101, Chem102, Physics101",Beginner,Video,73.71,98.1,Chem101
+80,Chem102,History101,Advanced,Text,2.0,65.43,Physics102
+621,Physics101,"History101, Math102",Intermediate,Interactive,38.58,69.69,Bio102
+255,Bio101,"Chem101, History102, Math102, Physics101",Advanced,Mixed,97.85,71.62,Bio102
+236,CS102,"CS101, Chem101, Math102",Advanced,Text,79.21,54.86,Physics101
+503,Bio102,"Math101, Physics101, Physics102",Advanced,Interactive,29.2,93.04,Physics101
+937,Math102,"Bio102, Chem102, Math102, Physics102",Beginner,Text,66.22,80.64,Physics101
+398,Chem102,"History102, Physics101",Advanced,Video,93.99,93.48,Physics102
+955,Bio102,Bio102,Beginner,Interactive,52.59,52.32,Physics102
+299,Chem101,"History101, Math102, Physics102",Advanced,Mixed,63.42,96.47,CS102
+360,Physics102,CS101,Advanced,Mixed,31.07,86.08,Bio101
+116,Bio101,"CS101, Chem101",Beginner,Interactive,17.13,92.56,Chem102
+751,Math101,"Bio102, Math102",Advanced,Text,74.41,51.86,History101
+863,Physics102,Math101,Beginner,Mixed,84.21,57.72,Physics101
+453,CS102,"Bio101, Math101, Math102",Advanced,Video,13.03,63.6,Bio101
+65,Bio102,"CS102, Physics101",Intermediate,Text,43.0,61.14,Chem102
+741,Chem102,"Bio101, CS101, Chem101, History102",Intermediate,Text,53.6,86.22,Physics102
+551,Bio102,CS101,Intermediate,Interactive,46.08,53.59,CS101
+737,Bio102,Chem102,Intermediate,Video,87.47,55.77,Math102
+826,Math102,"Chem101, Chem102, Physics101",Advanced,Interactive,66.34,81.74,Math102
+975,Math102,Physics102,Beginner,Video,68.11,86.99,Bio102
+139,Math101,"Bio101, History102, Math101, Physics102",Advanced,Video,64.6,58.73,History101
+776,Bio101,"Bio101, Physics102",Intermediate,Text,2.91,67.49,CS101
+925,Physics102,"Bio102, CS102, History101, Physics102",Intermediate,Interactive,30.94,67.51,History102
+773,Math101,"Chem101, Math101, Physics101, Physics102",Intermediate,Video,66.16,69.03,Bio101
+936,History102,"Bio102, Chem101, Chem102, History102",Intermediate,Video,32.75,65.08,Chem101
+814,History102,"CS101, Chem102, History101",Advanced,Text,74.83,72.31,CS102
+654,Math102,"Bio101, Chem101, Chem102",Advanced,Video,71.63,66.91,Bio102
+386,CS102,Bio101,Intermediate,Interactive,83.67,91.78,Bio102
+358,Bio102,"Bio101, Chem102, History101",Advanced,Text,60.37,95.64,History102
+505,Chem102,"Math101, Physics102",Advanced,Video,62.88,71.17,CS102
+712,Physics101,"CS101, Chem102, History101, Physics101",Beginner,Video,80.25,93.03,CS101
+378,Physics102,"Bio102, History101, Math101",Advanced,Mixed,48.44,56.54,Physics101
+679,Chem102,"Chem102, Math101",Advanced,Text,95.6,52.37,Math101
+623,Chem101,"CS102, History102",Beginner,Mixed,59.32,82.88,Bio101
+452,Physics102,"CS101, History102, Math101",Beginner,Video,73.05,62.58,Bio101
+974,CS102,"Bio101, CS102, Math101, Physics102",Intermediate,Text,1.98,67.77,History101
+244,CS102,"Bio102, History101",Advanced,Interactive,73.85,55.22,CS101
+713,Physics101,"Chem101, Chem102, Math101, Physics102",Beginner,Text,26.13,50.66,Chem101
+295,CS101,"Bio102, CS101, Chem102",Intermediate,Text,93.06,74.74,History102
+94,Chem102,"Bio102, History102, Math101",Intermediate,Text,67.52,63.18,History101
+68,Math101,Bio102,Beginner,Text,51.81,85.26,Chem101
+845,CS102,"Chem101, Physics101",Beginner,Mixed,33.4,71.54,Math102
+276,Bio101,"Bio101, CS102, Physics101",Intermediate,Text,71.7,79.65,Bio101
+328,Math101,"Bio102, Chem102, History102",Beginner,Interactive,62.37,79.57,Chem102
+768,CS101,"Bio102, CS101, Chem101",Beginner,Text,6.25,94.15,History101
+345,CS102,"Bio102, CS102, Math101",Intermediate,Video,79.92,51.63,CS102
+293,Bio102,"CS101, Chem101, Physics102",Advanced,Text,47.88,76.91,Physics101
+178,Bio101,"Bio102, Chem101, Physics101",Intermediate,Interactive,65.06,61.61,Chem102
+217,CS101,"Bio101, CS102, History101",Beginner,Text,88.33,75.36,Math101
+110,Physics101,"CS102, Chem102, Math102",Intermediate,Mixed,63.28,68.29,Chem102
+182,Chem101,"Chem101, Math101, Math102, Physics101",Intermediate,Interactive,76.54,71.66,Math102
+703,Chem102,Math102,Intermediate,Text,91.36,64.87,History102
+908,CS101,"Bio102, Math101, Physics102",Beginner,Video,56.22,90.2,Chem102
+681,History101,"Bio101, Physics102",Advanced,Video,6.87,61.28,Math102
+556,Physics101,Chem102,Intermediate,Interactive,4.33,67.5,CS101
+138,Physics101,"Bio101, Chem101, Math101, Physics101",Intermediate,Mixed,67.36,91.59,Chem102
+552,Bio102,"CS101, History101, Physics101",Intermediate,Mixed,81.24,78.97,Bio102
+230,Math101,Physics102,Advanced,Text,12.72,88.6,Bio101
+305,CS102,"Chem101, Chem102",Beginner,Interactive,47.68,62.7,History102
+320,Chem101,Bio102,Advanced,Text,77.86,61.5,CS101
+706,CS102,"Bio102, History102",Advanced,Video,94.09,91.91,Bio102
+686,Physics102,"CS102, History102, Physics101",Beginner,Text,82.27,62.7,Chem101
+710,CS101,"Bio102, History102",Intermediate,Mixed,79.23,82.0,CS101
+724,History101,"Bio102, CS102",Intermediate,Mixed,34.03,96.18,CS101
+443,CS101,"Chem101, Math101, Math102, Physics101",Intermediate,Interactive,70.25,76.97,History102
+501,Physics102,"Bio102, History101",Beginner,Text,46.79,75.97,CS101
+763,Math102,"CS101, Chem101, Physics102",Advanced,Mixed,55.94,53.26,Bio101
+964,Chem101,"Chem102, History101, History102, Math101",Advanced,Mixed,20.01,68.32,Physics101
+393,History101,"CS101, CS102, History101, Physics101",Intermediate,Mixed,18.81,77.33,Physics102
+153,Physics101,"History101, History102",Advanced,Mixed,72.85,98.84,Math102
+708,Bio101,"Bio101, Chem101, Chem102, Physics101",Intermediate,Mixed,55.91,83.22,Math101
+4,History102,Math102,Beginner,Video,45.5,96.52,Chem102
+335,History101,Bio102,Intermediate,Mixed,8.81,95.59,History101
+676,History101,Bio102,Advanced,Text,99.15,61.11,History102
+79,Math102,Bio101,Beginner,Text,26.39,92.34,Physics101
+631,History101,"Chem101, Chem102, History101",Intermediate,Video,37.13,50.97,History101
+38,Bio102,"Chem101, History102",Intermediate,Mixed,83.47,73.51,Bio102
+665,Physics102,Physics102,Beginner,Interactive,50.18,62.29,Math102
+969,Chem102,"CS101, History102, Math102, Physics102",Beginner,Text,85.76,78.59,Math101
+550,Bio101,"Chem101, Physics102",Intermediate,Text,13.98,97.96,CS102
+149,Chem101,"CS101, History101, Physics101, Physics102",Advanced,Mixed,7.92,74.93,Physics102
+770,History102,"CS102, Physics101",Intermediate,Interactive,79.75,93.42,Math102
+167,Bio102,Math102,Advanced,Text,51.93,83.4,Bio102
+480,Math101,"Bio101, Chem102, Math101, Math102",Advanced,Mixed,11.68,88.45,Chem102
+871,History102,"CS101, CS102, Chem101",Advanced,Mixed,73.74,55.76,History101
+325,Physics101,"CS102, Chem101, Math102",Beginner,Interactive,95.31,71.04,CS102
+803,Chem102,Math101,Beginner,Interactive,95.08,54.97,CS101
+954,CS101,"Bio102, CS102, Chem101, History101",Advanced,Mixed,94.15,54.23,Chem101
+183,History101,CS101,Intermediate,Interactive,58.87,68.84,History101
+740,History102,"CS101, CS102, History102, Physics101",Intermediate,Video,49.72,79.83,Math102
+434,Chem102,"CS102, History102",Beginner,Text,30.66,56.12,Chem102
+285,Bio102,"Bio101, Math101, Physics101",Advanced,Interactive,75.08,74.08,Math101
+73,Math102,Bio102,Beginner,Mixed,8.39,67.64,Bio101
+731,Bio102,"History102, Math101, Math102, Physics101",Beginner,Interactive,40.84,95.84,CS101
+983,CS101,Physics101,Advanced,Mixed,59.78,66.04,Physics102
+282,Chem102,History102,Intermediate,Mixed,20.83,58.76,Math102
+247,Physics102,Chem102,Advanced,Interactive,87.07,55.23,Physics101
+818,History101,"CS102, Chem101, Chem102",Beginner,Video,74.93,79.47,History101
+469,Chem102,History102,Beginner,Interactive,58.25,87.16,Math102
+561,Chem102,"History102, Physics101, Physics102",Intermediate,Video,46.72,70.84,History101
+365,Bio102,"CS102, Math102, Physics102",Intermediate,Interactive,75.26,96.13,Chem101
+488,CS101,"Bio101, Bio102, Math101, Physics102",Beginner,Video,27.28,79.43,Physics102
+848,Math102,"Bio102, Math102",Advanced,Interactive,15.34,61.53,History102
+428,CS102,"CS102, History101, Math102",Advanced,Text,31.81,81.52,Bio101
+518,Physics102,"CS101, Chem101, History102, Physics101",Advanced,Mixed,83.9,82.18,Bio101
+730,CS102,"Bio102, Chem101",Intermediate,Text,29.39,87.15,Chem102
+374,CS101,"Bio102, Math102, Physics101, Physics102",Advanced,Video,44.45,65.01,Math102
+837,CS101,"Bio102, Chem102, Math101, Math102",Beginner,Text,26.29,85.27,Bio102
+185,Math101,"CS101, Math102, Physics101",Intermediate,Mixed,49.32,83.58,CS101
+175,Bio102,"Bio102, Chem101, Math101",Beginner,Text,6.17,68.04,CS101
+668,Chem101,"CS101, Chem101",Beginner,Interactive,5.81,52.21,Physics101
+165,Physics101,"Chem101, History102",Intermediate,Interactive,68.45,94.44,Chem102
+898,Physics101,"Chem101, Physics101, Physics102",Beginner,Video,88.29,97.45,History102
+470,CS101,Chem102,Advanced,Text,26.66,60.85,Physics101
+628,CS101,"CS102, Physics102",Intermediate,Video,35.36,73.14,Physics101
+193,CS102,"Bio101, CS102, Chem101, History101",Beginner,Text,97.18,76.28,Physics102
+839,Bio101,"History101, Math102",Advanced,Video,94.56,87.9,CS102
+142,Physics101,Chem102,Beginner,Video,65.1,86.13,Physics102
+252,Math101,"Bio101, CS101, History101, History102",Intermediate,Interactive,37.28,73.02,CS101
+223,Math102,"CS101, CS102, Physics102",Advanced,Text,72.16,52.99,CS102
+878,Bio101,"History102, Physics102",Intermediate,Text,83.76,62.48,History101
+394,Math102,"Bio102, Chem102, Physics102",Beginner,Text,91.53,75.3,Chem102
+461,Chem102,"Bio101, Bio102, History101, Math101",Advanced,Interactive,82.02,77.6,Chem101
+409,Physics101,"CS101, Physics101",Intermediate,Text,43.5,94.6,Chem102
+371,CS101,"CS101, Chem101, Chem102, Math101",Advanced,Text,13.3,62.64,Physics102
+348,CS102,"Bio102, History101, Math102, Physics102",Intermediate,Video,72.6,58.13,Physics101
+477,Math101,"Bio102, Chem102, Math102",Advanced,Video,2.67,73.51,CS101
+291,Math102,"Bio101, Bio102, Physics101",Beginner,Text,74.53,90.02,Physics102
+905,CS101,"Bio101, Math102",Advanced,Video,78.25,69.85,Physics102
+790,History101,"Chem101, Physics101",Advanced,Video,62.99,72.43,Bio101
+630,Chem101,"CS101, Chem101, Chem102, History101",Advanced,Text,2.68,83.55,Math102
+197,CS101,"Bio101, Math102",Advanced,Text,31.18,53.2,Bio102
+235,Chem102,"Chem102, History102",Beginner,Interactive,68.38,77.5,Chem101
+257,Physics101,"CS101, History101, Math102, Physics101",Beginner,Mixed,64.73,59.81,Chem101
+238,Physics102,"Bio102, CS101, History102, Math102",Advanced,Mixed,9.39,83.85,Math102
+269,Chem101,"CS102, Math102",Intermediate,Mixed,78.08,70.26,Bio102
+440,CS102,"CS101, History101",Advanced,Mixed,64.63,58.42,Physics102
+633,Chem102,"Math101, Physics101",Intermediate,Mixed,51.1,79.42,CS101
+84,Physics102,"Bio101, Bio102, Physics101",Beginner,Mixed,32.59,61.23,Physics101
+727,Bio102,"Bio101, Bio102, Physics101, Physics102",Intermediate,Video,91.79,73.16,Chem102
+598,Physics101,"Bio102, History102, Math102, Physics101",Beginner,Video,64.81,62.8,Bio101
+312,History102,History101,Advanced,Mixed,54.78,98.55,Physics102
+919,Chem101,"CS101, History102, Math102, Physics101",Advanced,Video,71.69,78.83,Chem101
+734,CS101,"CS102, History101",Advanced,Mixed,46.09,85.95,Math102
+273,Math102,Chem102,Beginner,Interactive,56.7,77.79,Physics102
+944,History101,"Chem102, History101, Physics101, Physics102",Advanced,Text,13.6,73.19,Physics102
+641,Bio101,Bio102,Beginner,Video,93.21,79.78,Physics101
+843,Bio102,Chem101,Beginner,Text,29.12,63.88,CS102
+593,Bio102,"Bio101, History102, Math101, Physics101",Beginner,Text,21.97,90.97,CS102
+877,Bio101,"Chem102, History101",Intermediate,Text,11.27,83.78,CS101
+559,Chem102,"CS102, Math102, Physics102",Advanced,Text,45.1,53.24,Bio102
+613,Chem101,"Bio102, Math101, Physics102",Beginner,Video,24.59,55.1,Math102
+859,Chem102,"CS102, History102",Advanced,Mixed,11.22,82.25,History102
+735,History102,"CS102, Math101, Physics101, Physics102",Beginner,Interactive,83.12,90.04,Math101
+870,Physics102,"Bio101, CS102, Math101, Physics101",Advanced,Text,95.9,78.75,Math101
+254,Bio102,Math102,Advanced,Text,66.89,83.65,CS102
+401,Math101,CS102,Beginner,Mixed,76.53,54.6,Chem101
+406,Chem102,"Bio101, Physics102",Beginner,Interactive,62.84,93.03,Physics102
+210,Chem102,"Bio101, CS101, Chem101, History101",Intermediate,Mixed,28.19,86.1,History101
+447,Bio102,"CS102, Chem101, Math102",Intermediate,Interactive,34.76,72.47,Bio102
+317,Physics101,"Bio101, CS101, History101",Advanced,Video,58.31,55.34,History101
+527,History102,"Bio102, Physics102",Advanced,Mixed,62.9,72.35,Math101
+540,Math101,"Bio101, Physics102",Advanced,Mixed,84.66,89.1,CS101
+126,Bio102,"Bio101, Chem102, History101, Physics101",Beginner,Mixed,43.43,92.83,History101
+957,History101,"CS101, Chem102, History101",Beginner,Mixed,52.96,67.19,CS102
+811,Physics102,"CS101, CS102, Chem101, Chem102",Intermediate,Video,54.09,63.32,History102
+157,Physics102,"Chem101, Chem102, History102, Math102",Intermediate,Video,82.23,82.29,Chem101
+794,CS101,"CS102, History102, Physics101",Advanced,Interactive,40.54,91.74,Math102
+537,Physics101,"Bio101, Bio102, CS102, Chem101",Intermediate,Interactive,89.52,57.37,Math102
+87,Bio102,Physics101,Beginner,Mixed,90.12,53.57,Bio101
+757,Physics101,"Bio102, History101",Advanced,Mixed,45.36,54.37,History102
+847,Math102,"CS101, Math101, Physics101",Beginner,Video,27.68,68.21,History101
+528,History101,"Bio101, CS101, Physics101, Physics102",Beginner,Video,82.91,62.8,Math101
+579,Chem102,Math102,Beginner,Interactive,2.33,95.95,CS101
+701,CS101,"Bio102, Chem101, Chem102, Math102",Beginner,Text,42.32,90.12,History101
+41,History101,"History101, Physics101",Beginner,Video,53.66,69.62,Math101
+366,CS101,Math102,Advanced,Text,84.45,50.13,Math102
+748,Physics102,"CS101, Chem102, History102",Advanced,Video,65.62,89.1,CS102
+240,Bio101,"Bio101, CS101, History101, Physics102",Advanced,Video,1.67,98.96,Bio101
+120,Chem102,"Chem101, Chem102, Math101",Advanced,Video,13.96,99.05,Bio102
+462,Physics101,"Physics101, Physics102",Intermediate,Mixed,99.05,67.87,Physics102
+962,Chem102,History102,Advanced,Text,35.0,76.03,History102
+752,Chem101,Math102,Beginner,Interactive,60.34,68.04,CS102
+106,Bio102,"Bio101, Chem101, History102, Math102",Intermediate,Interactive,48.42,62.13,CS101
+356,Math101,"Chem101, Math101, Math102, Physics102",Intermediate,Mixed,36.88,68.94,Math102
+622,Bio102,"Chem101, Chem102, Math101",Advanced,Video,38.9,64.92,CS101
+90,CS101,Chem101,Beginner,Video,40.68,56.67,Math101
+476,CS101,"Bio102, CS101, Chem102, Math101",Intermediate,Video,42.2,72.0,Bio101
+50,History101,Bio101,Beginner,Text,93.14,86.53,History101
+457,History102,Math102,Advanced,Text,25.08,61.07,Math102
+738,Physics102,"Chem101, Chem102, Math102, Physics102",Intermediate,Video,23.49,71.9,Physics101
+927,History102,"CS102, Physics101",Advanced,Video,34.24,67.64,Math101
+947,Math102,"Chem102, History101",Advanced,Interactive,38.44,61.14,Math102
+395,Bio101,"CS101, History101",Intermediate,Text,75.36,61.12,Chem101
+725,Chem101,"CS101, Chem102, Math101, Physics102",Advanced,Mixed,4.76,66.99,Chem101
+648,Math101,"Chem102, Math101",Advanced,Interactive,89.56,68.3,History101
+425,Math102,"CS102, Chem102, Math102",Beginner,Mixed,93.68,54.28,Bio102
+726,Bio101,"Bio101, Bio102, Chem101, Physics101",Beginner,Text,15.55,75.14,Bio101
+489,CS102,"Math101, Physics102",Intermediate,Text,30.96,50.55,Physics102
+266,Physics102,Math102,Advanced,Interactive,26.9,86.98,Math101
+589,History101,"Bio102, CS101, Math102, Physics101",Beginner,Interactive,67.05,89.18,CS101
+272,History101,Math101,Advanced,Text,82.41,71.79,Math101
+558,Math101,Chem102,Advanced,Text,41.06,61.27,History101
+214,Math102,Math102,Beginner,Mixed,48.07,55.34,Bio102
+306,History102,"Bio101, Physics101",Beginner,Interactive,15.83,81.0,History101
+411,Chem101,"CS102, Physics102",Beginner,Mixed,60.81,94.77,Bio101
+542,Bio101,"Bio101, Chem102, Physics101",Beginner,Video,18.57,58.1,CS101
+666,Math101,"Bio101, Chem102",Intermediate,Text,5.08,93.34,Physics101
+651,History102,"Bio102, Chem101, Math102, Physics102",Advanced,Mixed,27.84,51.7,Chem101
+124,Chem101,"Bio101, Bio102, History101, Physics101",Beginner,Video,32.04,57.27,Chem101
+572,Bio101,Physics101,Intermediate,Video,41.68,59.97,CS102
+576,CS101,"Bio101, Bio102, Math101, Physics101",Intermediate,Video,33.98,66.29,Physics102
